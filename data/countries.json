@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:14:56.597Z",
+  "updated": "2026-09-18T16:58:11.484Z",
   "countries": [
     {
       "iso3": "ARG",
@@ -13,6 +13,398 @@
       "iso3": "ARM",
       "name": "Armenia",
       "slug": "armenia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "AUS",
+      "name": "Australia",
+      "slug": "australia",
+      "scholars": 2,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "BLR",
+      "name": "Belarus",
+      "slug": "belarus",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "BTN",
+      "name": "Bhutan",
+      "slug": "bhutan",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "BOL",
+      "name": "Bolivia",
+      "slug": "bolivia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 2
+    },
+    {
+      "iso3": "BWA",
+      "name": "Botswana",
+      "slug": "botswana",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil",
+      "scholars": 2,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "BGR",
+      "name": "Bulgaria",
+      "slug": "bulgaria",
+      "scholars": 4,
+      "coaches": 1,
+      "grantees": 1
+    },
+    {
+      "iso3": "CMR",
+      "name": "Cameroon",
+      "slug": "cameroon",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "CHL",
+      "name": "Chile",
+      "slug": "chile",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "HRV",
+      "name": "Croatia",
+      "slug": "croatia",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "CYP",
+      "name": "Cyprus",
+      "slug": "cyprus",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "ECU",
+      "name": "Ecuador",
+      "slug": "ecuador",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "ETH",
+      "name": "Ethiopia",
+      "slug": "ethiopia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "FIN",
+      "name": "Finland",
+      "slug": "finland",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "FRA",
+      "name": "France",
+      "slug": "france",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "GEO",
+      "name": "Georgia",
+      "slug": "georgia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 3
+    },
+    {
+      "iso3": "DEU",
+      "name": "Germany",
+      "slug": "germany",
+      "scholars": 3,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "GRC",
+      "name": "Greece",
+      "slug": "greece",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "HUN",
+      "name": "Hungary",
+      "slug": "hungary",
+      "scholars": 3,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "IND",
+      "name": "India",
+      "slug": "india",
+      "scholars": 7,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "IDN",
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "IRN",
+      "name": "Iran",
+      "slug": "iran",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "ISR",
+      "name": "Israel",
+      "slug": "israel",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "ITA",
+      "name": "Italy",
+      "slug": "italy",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "JOR",
+      "name": "Jordan",
+      "slug": "jordan",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "KAZ",
+      "name": "Kazakhstan",
+      "slug": "kazakhstan",
+      "scholars": 4,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "KEN",
+      "name": "Kenya",
+      "slug": "kenya",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "KGZ",
+      "name": "Kyrgyzstan",
+      "slug": "kyrgyzstan",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "LTU",
+      "name": "Lithuania",
+      "slug": "lithuania",
+      "scholars": 0,
+      "coaches": 1,
+      "grantees": 1
+    },
+    {
+      "iso3": "MYS",
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 3
+    },
+    {
+      "iso3": "MRT",
+      "name": "Mauritania",
+      "slug": "mauritania",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "MEX",
+      "name": "Mexico",
+      "slug": "mexico",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 2
+    },
+    {
+      "iso3": "MNG",
+      "name": "Mongolia",
+      "slug": "mongolia",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "MAR",
+      "name": "Morocco",
+      "slug": "morocco",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "NAM",
+      "name": "Namibia",
+      "slug": "namibia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "NLD",
+      "name": "Netherlands",
+      "slug": "netherlands",
+      "scholars": 1,
+      "coaches": 1,
+      "grantees": 0
+    },
+    {
+      "iso3": "NGA",
+      "name": "Nigeria",
+      "slug": "nigeria",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "PAK",
+      "name": "Pakistan",
+      "slug": "pakistan",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "PHL",
+      "name": "Philippines",
+      "slug": "philippines",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 2
+    },
+    {
+      "iso3": "POL",
+      "name": "Poland",
+      "slug": "poland",
+      "scholars": 2,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "ROU",
+      "name": "Romania",
+      "slug": "romania",
+      "scholars": 5,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "RWA",
+      "name": "Rwanda",
+      "slug": "rwanda",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 5
+    },
+    {
+      "iso3": "SRB",
+      "name": "Serbia",
+      "slug": "serbia",
+      "scholars": 5,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "SGP",
+      "name": "Singapore",
+      "slug": "singapore",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "TUN",
+      "name": "Tunisia",
+      "slug": "tunisia",
+      "scholars": 1,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "TUR",
+      "name": "Turkey",
+      "slug": "turkey",
+      "scholars": 3,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "UGA",
+      "name": "Uganda",
+      "slug": "uganda",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "UKR",
+      "name": "Ukraine",
+      "slug": "ukraine",
+      "scholars": 9,
+      "coaches": 0,
+      "grantees": 0
+    },
+    {
+      "iso3": "UZB",
+      "name": "Uzbekistan",
+      "slug": "uzbekistan",
       "scholars": 0,
       "coaches": 0,
       "grantees": 1
