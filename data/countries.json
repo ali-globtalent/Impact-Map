@@ -1,0 +1,13 @@
+{
+  "updated": "2026-09-18T10:00:00Z",
+  "countries": [
+    {
+      "iso3": "KEN",
+      "name": "Kenya",
+      "slug": "kenya",
+      "scholars": 14,
+      "coaches": 3,
+      "grantees": 3
+    }
+  ]
+}
