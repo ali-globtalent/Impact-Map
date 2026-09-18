@@ -1,13 +1,21 @@
 {
-  "updated": "2026-09-18T10:00:00Z",
+  "updated": "2026-09-18T16:14:56.597Z",
   "countries": [
     {
-      "iso3": "KEN",
-      "name": "Kenya",
-      "slug": "kenya",
-      "scholars": 14,
-      "coaches": 3,
-      "grantees": 3
+      "iso3": "ARG",
+      "name": "Argentina",
+      "slug": "argentina",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
+    },
+    {
+      "iso3": "ARM",
+      "name": "Armenia",
+      "slug": "armenia",
+      "scholars": 0,
+      "coaches": 0,
+      "grantees": 1
     }
   ]
 }
